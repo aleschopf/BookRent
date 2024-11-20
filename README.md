@@ -54,13 +54,13 @@ O principal objetivo deste projeto é proporcionar uma base sólida de aprendiza
 1. Clone o repositório:
 
    ```bash
-   git clone 
+   git clone https://github.com/aleschopf/BookRent.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd bookrent
+   cd BookRent
    ```
 
 3. Para rodar a aplicação, utilize o Maven:
